@@ -7,11 +7,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Homepage
       - href: projects.qmd
-        text: SURF Intro
-      - href: basics.qmd
-        text: Basics
+        text: Education
+    #  - href: basics.qmd
+    #    text: Basics
     #  - href: onelayernn.qmd
     #    text: Machine Learning Methods 
 format: 
