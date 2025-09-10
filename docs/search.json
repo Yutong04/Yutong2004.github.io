@@ -4,13 +4,6 @@
     "href": "index.html",
     "title": "Homepage",
     "section": "",
-    "text": "test\n\n# introduction"
-  },
-  {
-    "objectID": "index.html#self-information",
-    "href": "index.html#self-information",
-    "title": "Homepage",
-    "section": "",
-    "text": "test\n\n# introduction"
+    "text": "About Me\nI am Yutong Li, an undergraduate student in Applied Mathematics at Xi’an Jiaotong-Liverpool University. I am interested in applied problems in statistics, such as bio-statistics and public health related data.\n\n\nActivity\n(1) Fertility and Beauty Consumption: \nBuilt a CFPS panel (2012–2022) and applied a Difference-in-Differences (DID) with Two-Stage Least Squares (2SLS) framework. \nFindings show the universal two-child policy significantly increased fertility among targeted women, while higher fertility reduced beauty expenditures.\n\n(2) Interaction of PM2.5 and Waist-to-Hip Ratio on Brain Structure: \nAnalyzed 39,171 neuroimaging and epidemiological samples, finding that low-level PM2.5 and WHR jointly affect subcortical and cortical brain regions, with stronger effects in females. \nResults suggest certain brain areas are more vulnerable to combined environmental and metabolic factors.\n\n(3) Survival Analysis in Pesticide Poisoning Patients: \nApplied Cox-Lasso and backward Cox regression to identify CPR, intubation or ventilation, vasopressors, age, and ingested dose as key predictors of survival,\nproviding practical evidence for treatment optimization.\nBeyond research, I have delivered talks at the Workshop on Exploring Mathematics with AI and participated in a public health statistics summer camp.\nI am skilled in R, MATLAB, and Java."
   }
 ]
